@@ -1,0 +1,1552 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The conflagration of London poetically delineated and directed to the most noble and deserving citizen Sir J.L. Knight and Baronet.</title>
+            <title>Conflagratio Londinensis poetice depicta. English &amp; Latin</title>
+            <author>Ford, Simon, 1619?-1699.</author>
+         </titleStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39908</idno><idno type="EEBO-CITATION">12911727</idno>
+  <idno type="VID">95334</idno>
+  <idno type="EEBO-PROQUEST">2240921909</idno>
+  
+            <idno type="STC">Wing F1480</idno>
+            <idno type="STC">ESTC R6746</idno>
+            <idno type="OCLC">12911727</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A39908)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95334)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 982:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The conflagration of London poetically delineated and directed to the most noble and deserving citizen Sir J.L. Knight and Baronet.</title>
+                  <title>Conflagratio Londinensis poetice depicta. English &amp; Latin</title>
+                  <author>Ford, Simon, 1619?-1699.</author>
+               </titleStmt>
+               <extent>27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sa. Gellibrand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Simon Ford.  Cf. Wing and NUC pre-1956.</note>
+                  <note>English and Latin on opposite pages.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fires --  England --  London --  Poetry.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95334:1"/>
+            <p>THE Conflagration OF LONDON: POETICALLY <hi>DELINEATED.</hi>
+            </p>
+            <p>AND Directed to the most Noble and <hi>DESERƲING</hi> CITIZEN Sir <hi>J. L. Knight</hi> and <hi>Baronet.</hi>
+            </p>
+            <q>
+               <hi>Ʋt Pictura Poesis.</hi>
+               <bibl>Horat.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Sa. Gellibrand</hi> 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:95334:2"/>
+            <pb facs="tcp:95334:2"/>
+            <pb n="4" facs="tcp:95334:3"/>
+            <div xml:lang="eng" type="version">
+               <head>The <hi>Conflagration</hi> of <hi>London,</hi> Poetically <hi>delineated;</hi> And directed to the most Noble, and Deserving <hi>Citizen,</hi> Sir <hi>J. L.</hi> Knight and Baronet.</head>
+               <epigraph>
+                  <q>Poetry's Painting, <bibl>
+                        <hi>Horat.</hi>
+                     </bibl>
+                  </q>
+               </epigraph>
+               <lg>
+                  <l>What ayls the Poet? what <hi>unwonted Fire</hi>
+                  </l>
+                  <l>Thus on a sudden doth his <hi>breast inspire?</hi>
+                  </l>
+                  <l>'Tis <hi>thine, O London;</hi> From thy <hi>Funeral Ʋrn</hi>
+                  </l>
+                  <l>Those <hi>flames</hi> take <hi>birth,</hi> that do thy <hi>Poet burn.</hi>
+                  </l>
+                  <l>
+                     <hi>Aetna</hi> is my <hi>Parnassus;</hi> and a <hi>Cup</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                  </l>
+                  <l>Of <hi>liquid Fire, Vesuvius</hi> belcheth up,</l>
+                  <l>My <hi>sacred Spring;</hi> To give my <hi>Passions</hi> vent,</l>
+                  <l>I need no <hi>other Muse,</hi> then th' <hi>Argument.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Your favour, <hi>Sir,</hi> my Muse and I implore,</l>
+                  <l>(<hi>Friend</hi> to the <hi>Poet,</hi> to the <hi>Muses</hi> more;)<milestone type="tcpmilestone" unit="unspecified" n="10"/>
+                  </l>
+                  <l>'Tis <hi>your Concern.</hi> Those <hi>neighbour-flames,</hi> I sing,</l>
+                  <l>That <hi>Divine Mercy</hi> to <hi>remembrance</hi> bring,</l>
+                  <l>Which those <hi>small Reliques,</hi> where a part you have,</l>
+                  <l>So lately <hi>snatcht</hi> from a <hi>great City's Grave.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Scarce hath the <hi>City</hi> clear'd <hi>Infectious Heats</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="15"/>
+                  </l>
+                  <l>Scarce yet her <hi>Pulse</hi> to <hi>healthful Measures</hi> beats;</l>
+                  <l>When (loe!) a <hi>sorer Fever</hi> her befalls:</l>
+                  <l>A <hi>fatal Fire,</hi> conceiv'd in private walls,</l>
+                  <l>
+                     <hi>Nurs'd</hi> by <hi>contempt,</hi> at last grows <hi>past Arrest;</hi>
+                  </l>
+                  <l>
+                     <hi>Desies</hi> all <hi>Aids,</hi> and <hi>scorns</hi> to be <hi>supprest.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="20"/>
+                  </l>
+               </lg>
+            </div>
+            <div xml:lang="lat" type="version">
+               <pb n="5" facs="tcp:95334:3"/>
+               <head>Conflagratio Londinensis <hi>Poetice</hi> depicta: Patricioque <hi>Nobilissimo, Doctissimoque,</hi> J. L. <hi>Eq. Aur.</hi> Inscripta.</head>
+               <epigraph>
+                  <q>Ut Pictura Poesis. <bibl>
+                        <hi>Horat.</hi>
+                     </bibl>
+                  </q>
+               </epigraph>
+               <lg>
+                  <l>
+                     <hi>HAec nova quae</hi> rabies Vati? <hi>Quis</hi> carminis aestus</l>
+                  <l>
+                     <hi>Jamdudum insueta populatur pect or a</hi> flamma?</l>
+                  <l>
+                     <hi>Nempe, tua</hi> (Urbs nostrae <hi>quondam</hi> clarissima Gentis)</l>
+                  <l>Funera <hi>deflentes,</hi> cognato <hi>carpimur</hi> Igne.</l>
+                  <l>Aetna <hi>mihi</hi> Parnassus; <hi>&amp; hausto plena</hi> Vesevo <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                  </l>
+                  <l>
+                     <hi>Mens furit; &amp; totis</hi> Incendia <hi>mista medullis</hi>
+                  </l>
+                  <l>
+                     <hi>Concipit; In</hi> Musam <hi>mihi sufficit</hi> Argumentum.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Tu modo</hi> (Vir dilecte mihi, dilecte Camoenis)</l>
+                  <l>
+                     <hi>Ʋs{que}</hi> fave, <hi>dum</hi> magna <hi>absolvimus ausa</hi> minores;</l>
+                  <l>
+                     <hi>Nam</hi> tua <hi>res agitur. Tot</hi> proxima Busta <hi>canentes,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="10"/>
+                  </l>
+                  <l>
+                     <hi>Te monitum</hi> Officii <hi>volumus, parvas{que} furentis</hi>
+                  </l>
+                  <l>Relliquias Ignis, (tantae tantilla <hi>ruinae</hi>
+                  </l>
+                  <l>
+                     <hi>Fragmenta,) aeterno dignas ut</hi> Numine <hi>grates</hi>
+                  </l>
+                  <l>
+                     <hi>Reddatis; vobis, quo,</hi> flamma, <hi>jubente, pepercit.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Nondum tota, (diu lethali noxia</hi> Tabo,)<milestone type="tcpmilestone" unit="unspecified" n="15"/>
+                  </l>
+                  <l>
+                     <hi>Desaevit</hi> Pestis; <hi>nondum rediviva</hi> salutem</l>
+                  <l>
+                     <hi>Senserat; (ecce!</hi>) novam <hi>cumulata strage</hi> ruinam</l>
+                  <l>Urbs <hi>patitur. Parvus, contemptu{que} auctior,</hi> Ignis,</l>
+                  <l>Grassatur <hi>late; vastamque per omnia</hi> cladem</l>
+                  <l>
+                     <hi>Spargit; inaccesso</hi> bacchatus <hi>ubi{que}</hi> furore. <milestone type="tcpmilestone" unit="unspecified" n="20"/>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="6" facs="tcp:95334:4"/>
+                  <l>
+                     <hi>Heaven's bellows</hi> blow the <hi>Coals,</hi> and every where</l>
+                  <l>Toss <hi>wanton Fire-balls</hi> dancing in the air.</l>
+                  <l>The <hi>liquid Pitch</hi> in <hi>flaming clowds</hi> doth fly,</l>
+                  <l>And scatters <hi>clammy Lightnings</hi> in the <hi>sky:</hi>
+                  </l>
+                  <l>The <hi>scared Citizens,</hi> with trembling, <hi>gaze,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="25"/>
+                  </l>
+                  <l>To watch the <hi>downfal</hi> of the <hi>hovering blaze;</hi>
+                  </l>
+                  <l>Till, where least fear'd, it <hi>lights,</hi> and <hi>fatal showers</hi>
+                  </l>
+                  <l>Through <hi>Chimney-tops</hi> into their <hi>dwellings</hi> powers.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Buckets</hi> and <hi>Pumps</hi> they now for <hi>service</hi> press;</l>
+                  <l>The <hi>service hot,</hi> and <hi>dubious</hi> the success:<milestone type="tcpmilestone" unit="unspecified" n="30"/>
+                  </l>
+                  <l>They drain the <hi>Thames,</hi> and from the <hi>broken Lead</hi>
+                  </l>
+                  <l>Divert those <hi>streams</hi> which <hi>private dwellings</hi> fed.</l>
+                  <l>Each <hi>Street</hi> a <hi>Brook</hi> becomes, each <hi>Damme</hi> a <hi>Pond;</hi>
+                  </l>
+                  <l>
+                     <hi>Cask</hi> knockt o' th' <hi>head,</hi> and <hi>noblest Juices,</hi> tunn'd</l>
+                  <l>Not for <hi>these uses,</hi> now to <hi>these assign'd:</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="35"/>
+                  </l>
+                  <l>The <hi>sober stream</hi> with <hi>sprightly Nectar</hi> joyn'd,</l>
+                  <l>Great <hi>Engines</hi> on the <hi>thirsty Flame</hi> did shed,</l>
+                  <l>But what the <hi>one</hi> did <hi>quench,</hi> the <hi>other fed:</hi>
+                  </l>
+                  <l>The <hi>unctuous liquors</hi> with the <hi>Foe</hi> conspire,</l>
+                  <l>And <hi>drunken Vulcan</hi> vomits <hi>fiercer Fire.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="40"/>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Who <hi>dwelt</hi> together, now together burn;</l>
+                  <l>And <hi>houses mixt,</hi> to <hi>mixed Ashes</hi> turn.</l>
+                  <l>What was the <hi>Nurse</hi> of Trade, becomes its <hi>Fate;</hi>
+                  </l>
+                  <l>And <hi>neigbourhood</hi> doth now <hi>depopulate.</hi>
+                  </l>
+                  <l>The <hi>flame's</hi> augmented by the <hi>houses crowd,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="45"/>
+                  </l>
+                  <l>Its <hi>hunger</hi> still encreasing by its <hi>food.</hi>
+                  </l>
+                  <l>The <hi>Mower</hi> strikes not more <hi>destructive stroaks,</hi>
+                  </l>
+                  <l>When from the <hi>Field</hi> he polls her <hi>golden locks:</hi>
+                  </l>
+                  <l>Then doth the <hi>flaming Sythe</hi> deal <hi>fatal blows,</hi>
+                  </l>
+                  <l>Whiles <hi>streets</hi> on <hi>swathes</hi> its <hi>keener fury</hi> throws. <milestone type="tcpmilestone" unit="unspecified" n="50"/>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="7" facs="tcp:95334:4"/>
+                  <l>
+                     <hi>Quinetiam accensos animavit follibus</hi> ignes</l>
+                  <l>Eurus, <hi>in aethereo volvens Incendia caelo.</hi>
+                  </l>
+                  <l>
+                     <hi>Ʋundi{que}</hi> sulphureae <hi>librantur in Aëre</hi> nubes;</l>
+                  <l>
+                     <hi>Huc, illuc, ventoraptae,</hi> casu{que} minaces,</l>
+                  <l>Pinguia <hi>longinquo dispergunt</hi> fulgura <hi>tractu;</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="25"/>
+                  </l>
+                  <l>
+                     <hi>Deinde</hi> cadunt, <hi>summisque ardent</hi> fastigia <hi>tect is.</hi>
+                  </l>
+                  <l>Irriguisque <hi>simul perfundunt</hi> Ignibus <hi>aedes,</hi>
+                  </l>
+                  <l>
+                     <hi>Flamma</hi> tenax piceis <hi>quascun{que} amplectitnr</hi> Ulnis.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Dum tamen est</hi> Undis <hi>visus superabilis</hi> Hostis,</l>
+                  <l>Flumine <hi>certatum est. Ʋbertim affunditur</hi> Humor; <milestone type="tcpmilestone" unit="unspecified" n="30"/>
+                  </l>
+                  <l>
+                     <hi>Hauritur situlis</hi> Thamisis; <hi>caeduntur ubi{que}</hi>
+                  </l>
+                  <l>
+                     <hi>Qui privata prius subierunt Tecta</hi> Canales:</l>
+                  <l>Vicatim <hi>ruit</hi> unda, <hi>objecto{que} aggere</hi> stagnat.</l>
+                  <l>
+                     <hi>Quinetiam, effract is vacuantur</hi> Dolia <hi>fundis,</hi>
+                  </l>
+                  <l>
+                     <hi>Egeritur{que}</hi> liquor <hi>non</hi> hos <hi>servatus in</hi> usus. <milestone type="tcpmilestone" unit="unspecified" n="35"/>
+                  </l>
+                  <l>Sobria Nympha <hi>fluit</hi> generoso <hi>mista</hi> Lyaeo;</l>
+                  <l>Pugnantes{que} <hi>simul jaculatur Machina</hi> fluctus,</l>
+                  <l>
+                     <hi>Extinctura</hi> sitim Vulcani; <hi>at victa</hi> Lyaeo</l>
+                  <l>Lympha <hi>fuit, donec nimio perfusus</hi> Jaccho,</l>
+                  <l>Ebrius <hi>evomuit</hi> duplicatos Mulciber Ignes. <milestone type="tcpmilestone" unit="unspecified" n="40"/>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Jam{que} ardent junctae</hi> vicinis aestibus <hi>aedes;</hi>
+                  </l>
+                  <l>
+                     <hi>Exitio est</hi> habitare simul; commercia vitae</l>
+                  <l>
+                     <hi>Mutua quod dederat, spargit</hi> contagia Fati:</l>
+                  <l>
+                     <hi>Nam{que}</hi> novi <hi>augentur</hi> conferta strage <hi>furores;</hi>
+                  </l>
+                  <l>Congesta{que} <hi>fames Vulcani crescit ab</hi> offa. <milestone type="tcpmilestone" unit="unspecified" n="45"/>
+                  </l>
+                  <l>
+                     <hi>Ʋt{que} simul densus prosternit</hi> Meslor <hi>aristas;</hi>
+                  </l>
+                  <l>
+                     <hi>Auratis{que} comis spoliatum undat agellum:</hi>
+                  </l>
+                  <l>
+                     <hi>Sic</hi> acies <hi>vastam</hi> rutilans demessuit <hi>Ʋrbem;</hi>
+                  </l>
+                  <l>
+                     <hi>Faecundam</hi> flammae segetem, <hi>qua</hi> densior <hi>ulla</hi>
+                  </l>
+                  <l>
+                     <hi>Haud fuit in terris</hi> Phoebo <hi>sub</hi> utro{que} <hi>locatis.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="50"/>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="8" facs="tcp:95334:5"/>
+                  <l>Now <hi>water's</hi> useless: and the next intent,</l>
+                  <l>Is by <hi>great ruines, greater</hi> to prevent.</l>
+                  <l>By <hi>Hooks</hi> and <hi>Mines,</hi> next houses levell'd lie,</l>
+                  <l>In hope, the <hi>flames</hi> may for meer <hi>hunger</hi> die.</l>
+                  <l>But all in vain: Those <hi>ruines</hi> prove a <hi>stile</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="55"/>
+                  </l>
+                  <l>O're which the fire <hi>strides</hi> to the <hi>standing Pile.</hi>
+                  </l>
+                  <l>Yea, where its <hi>actual contact</hi> is deny'd,</l>
+                  <l>Like mischiefs from <hi>inflamed air</hi> betide.</l>
+               </lg>
+               <lg>
+                  <l>Here, ruinous <hi>cracks;</hi> there, doleful <hi>shreeks</hi> do sound,</l>
+                  <l>And those, that <hi>danger</hi> should <hi>unite, confound.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="60"/>
+                  </l>
+                  <l>
+                     <hi>False fears</hi> suggested, <hi>common Aids</hi> distract;</l>
+                  <l>While each his <hi>Cabin voids,</hi> the <hi>Vessel's wrackt:</hi>
+                  </l>
+                  <l>Their <hi>emptied houses</hi> to the <hi>flames</hi> they <hi>yield;</hi>
+                  </l>
+                  <l>And change the <hi>City</hi> for the <hi>open field.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>So have I seen, when with a <hi>fatal spade</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="65"/>
+                  </l>
+                  <l>The <hi>Gard'ner</hi> doth an <hi>Emmet-hill</hi> invade:</l>
+                  <l>How <hi>busie crowds</hi> with <hi>laden shoulders,</hi> wander,</l>
+                  <l>Some <hi>this,</hi> some <hi>that</hi> way, <hi>here</hi> some, others <hi>yonder;</hi>
+                  </l>
+                  <l>Their <hi>brood</hi> and <hi>goods</hi> removing in a <hi>trice,</hi>
+                  </l>
+                  <l>They know not <hi>whither:</hi> onely this <hi>advice</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="70"/>
+                  </l>
+                  <l>They <hi>jointly</hi> take, to leave their <hi>ruin'd Cell;</hi>
+                  </l>
+                  <l>And seek <hi>new Homes,</hi> where they may <hi>safer dwell.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thus, <hi>scatter'd Citizens</hi> trudg up and down,</l>
+                  <l>Some, charg'd with <hi>others</hi> goods, some with their <hi>own;</hi>
+                  </l>
+                  <l>Th' <hi>uncertain crowd</hi> with <hi>various motion</hi> reels, <milestone type="tcpmilestone" unit="unspecified" n="75"/>
+                  </l>
+                  <l>And <hi>following feet</hi> oppress <hi>preceding heels.</hi>
+                  </l>
+                  <l>The <hi>poor</hi> man's <hi>pack</hi> is <hi>light,</hi> as is his <hi>foot,</hi>
+                  </l>
+                  <l>The <hi>rich</hi> man's <hi>load</hi> his <hi>slower pace</hi> doth suit.</l>
+                  <l>The <hi>Porter</hi> makes his <hi>Markets</hi> in the <hi>wrack;</hi>
+                  </l>
+                  <l>A <hi>friend,</hi> or <hi>foe,</hi> as he <hi>bestows</hi> his <hi>Pack.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="80"/>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="9" facs="tcp:95334:5"/>
+                  <l>Flumineam <hi>dum spernit</hi> Opem <hi>Vulcanius Hostis:</hi>
+                  </l>
+                  <l>
+                     <hi>Hinc</hi> Uncis, <hi>illinc,</hi> nitrato pulvere, <hi>Cives,</hi>
+                  </l>
+                  <l>Proxima <hi>grassanti subvertunt</hi> tecta ruinae;</l>
+                  <l>Praeripiunt{que} <hi>avidis obnoxia</hi> pabula <hi>flammis.</hi>
+                  </l>
+                  <l>
+                     <hi>Incassum.</hi> Prostrata <hi>etenim per</hi> rudera scandens <milestone type="tcpmilestone" unit="unspecified" n="55"/>
+                  </l>
+                  <l>Ignea Tempestas, <hi>distantes</hi> contigit <hi>aedes.</hi>
+                  </l>
+                  <l>
+                     <hi>Quin, nec jam</hi> contactu <hi>opus est:</hi> longe{que} remota</l>
+                  <l>
+                     <hi>Aestibus assiduis</hi> ignitus <hi>corripit</hi> Aer.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Cuncta</hi> fragore <hi>strepunt, circumsonat undi{que}</hi> Terror;</l>
+                  <l>Dissonus <hi>auditur</hi> clamor; falsi{que} timores, <milestone type="tcpmilestone" unit="unspecified" n="60"/>
+                  </l>
+                  <l>
+                     <hi>Dissociant junctas ad</hi> certa pericula <hi>vires;</hi>
+                  </l>
+                  <l>
+                     <hi>Dum</hi> sibi <hi>quis{que} cavet, cumulantur</hi> publica Damna.</l>
+                  <l>Diripit <hi>ipsa</hi> suos <hi>incondita Turba</hi> Penates;</l>
+                  <l>Direptam{que} <hi>fugit, quaqua patet exitus,</hi> Urbem;</l>
+                  <l>
+                     <hi>Vix ausi quicquam nisi</hi> aperto <hi>credere</hi> coelo. <milestone type="tcpmilestone" unit="unspecified" n="65"/>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Haud aliter</hi> Fossor, <hi>terram versante</hi> ligone,</l>
+                  <l>
+                     <hi>Si</hi> formicarum <hi>fortasse invaserit</hi> aedes;</l>
+                  <l>Densa cohors, <hi>hinc, inde,</hi> humeris <hi>discurrit</hi> onustis:</l>
+                  <l>
+                     <hi>Momento egeritur</hi> faetusque, <hi>&amp;</hi> parva supellex,</l>
+                  <l>Quo <hi>tamen,</hi> incertum <hi>est: unum hoc</hi> commune <hi>videtur</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="70"/>
+                  </l>
+                  <l>Concilium <hi>Genti, temerata relinquere</hi> tecta,</l>
+                  <l>Eversa{que} <hi>novas</hi> patria <hi>sibi quaerere</hi> sedes.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Moesta per intact as palatur Turba plateas,</hi>
+                  </l>
+                  <l>
+                     <hi>Sarcinulis onerata</hi> suis <hi>pars, pars</hi> alienis.</l>
+                  <l>
+                     <hi>Truditur</hi> hic <hi>veniente</hi> prior, <hi>trudit{que}</hi> priorem, <milestone type="tcpmilestone" unit="unspecified" n="75"/>
+                  </l>
+                  <l>In{que} vicem <hi>confusa cohors</hi> urgetur, <hi>&amp;</hi> urget:</l>
+                  <l>Hic, <hi>velox parvo</hi> properat <hi>sub pondere</hi> pauper:</l>
+                  <l>
+                     <hi>Praegrandi</hi> tardus <hi>nimium gemit</hi> ille <hi>sub</hi> auro:</l>
+                  <l>Bajulus <hi>in partem praedae discurrit; &amp; ipsas</hi>
+                  </l>
+                  <l>
+                     <hi>Queis venit</hi> auxilio, <hi>velut</hi> hostis, <hi>diripit aedes.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="80"/>
+                  </l>
+                  <pb n="10" facs="tcp:95334:6"/>
+                  <l>And happy now's the <hi>mean estate!</hi> The <hi>higher</hi>
+                  </l>
+                  <l>Affords but <hi>richer prey</hi> to <hi>thievs</hi> and <hi>fire.</hi>
+                  </l>
+                  <l>The rates of <hi>Portage</hi> with the <hi>danger</hi> rise;</l>
+                  <l>Sometimes, <hi>Half valew</hi>'s thought but <hi>equal</hi> Price:</l>
+                  <l>And sometimes, <hi>half</hi>'s too <hi>short:</hi> Justice gives <hi>odds</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="85"/>
+                  </l>
+                  <l>To him that stakes a <hi>life</hi> against my <hi>goods.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Now range the <hi>flames,</hi> like <hi>Travellers</hi> in <hi>peace,</hi>
+                  </l>
+                  <l>Where <hi>success hopeless</hi> is, <hi>endeavours cease:</hi>
+                  </l>
+                  <l>The <hi>Battel</hi>'s given for <hi>lost;</hi> and former <hi>checks</hi>
+                  </l>
+                  <l>The <hi>Victor</hi> into <hi>hotter vengeance</hi> vex. <milestone type="tcpmilestone" unit="unspecified" n="90"/>
+                  </l>
+                  <l>O're <hi>flowing eyes</hi> their <hi>flaming Homes</hi> bewail,</l>
+                  <l>But <hi>Tears cannot,</hi> where <hi>Floods would not</hi> avail:</l>
+                  <l>So th' <hi>helpless Bird</hi> about her <hi>plundred nest,</hi>
+                  </l>
+                  <l>
+                     <hi>Chatters</hi> and <hi>flutters,</hi> fain she would <hi>arrest</hi>
+                  </l>
+                  <l>Her <hi>Fate;</hi> but over-match'd, takes the <hi>next tree,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="95"/>
+                  </l>
+                  <l>And there <hi>bemoans</hi> the wrack she's <hi>forc'd to see.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Here <hi>Caesar</hi> comes, with <hi>buckets</hi> in his <hi>eyes,</hi>
+                  </l>
+                  <l>And <hi>Father</hi> in his <hi>Heart. Come, come,</hi> he cryes,</l>
+                  <l>Let's make <hi>one onset</hi> more. The <hi>scatter'd Troops</hi>
+                  </l>
+                  <l>At his word <hi>rally,</hi> and <hi>retrieve</hi> their <hi>Hopes:</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="100"/>
+                  </l>
+                  <l>The <hi>Rebel Flames,</hi> they say, felt <hi>Charles</hi> was there;</l>
+                  <l>And <hi>sneaking</hi> back, grew <hi>tamer</hi> then they were:</l>
+                  <l>So that, no doubt, were <hi>fates</hi> to be <hi>defeated</hi>
+                  </l>
+                  <l>By <hi>Man,</hi> the <hi>City</hi>'s <hi>Fate</hi> had then <hi>retreated.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But <hi>Loyalty</hi> befriends the <hi>Flames.</hi> Their <hi>own</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="105"/>
+                  </l>
+                  <l>Dangers neglected, <hi>thine</hi> affrights. <hi>Alone,</hi>
+                  </l>
+                  <l>
+                     <hi>Alone,</hi> dear <hi>Sir,</hi> let's <hi>fall,</hi> they cry'd alowd,</l>
+                  <l>And hazard not <hi>three Kingdoms</hi> in a <hi>crowd.</hi>
+                  </l>
+                  <l>Long may <hi>King Charles</hi> survive his <hi>Cities Fate,</hi>
+                  </l>
+                  <l>His <hi>life,</hi> and all our <hi>hopes</hi> bear <hi>equal Date:</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="110"/>
+                  </l>
+                  <pb n="11" facs="tcp:95334:6"/>
+                  <l>
+                     <hi>Esse</hi> inopem <hi>quando{que}</hi> juvat! <hi>Quo quis{que}</hi> minora</l>
+                  <l>
+                     <hi>Possidet, hoc</hi> minor <hi>est</hi> flammae furum{que} rapina.</l>
+                  <l>
+                     <hi>Nec non</hi> vecturae <hi>pretium,</hi> crescente periclo,</l>
+                  <l>Crescit; <hi>&amp; (in spoliuni intentus) sua</hi> Portitor <hi>ipse</hi>
+                  </l>
+                  <l>Pondera, <hi>cum</hi> Dominis <hi>pacto</hi> partitur <hi>iniquo.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="85"/>
+                  </l>
+                  <l>Justa <hi>tamen quando{que} petit, discrimina</hi> vitae</l>
+                  <l>
+                     <hi>Qui subit, &amp; semesa rapit</hi> sua praemia <hi>flammis.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Jam data</hi> pax Igni. <hi>Nullo prohibente, vagatur.</hi>
+                  </l>
+                  <l>Desperata <hi>salus, conatus reddit</hi> inertes;</l>
+                  <l>Auxilium <hi>omne malis</hi> lassum succumbit; <hi>&amp;</hi> aestus <milestone type="tcpmilestone" unit="unspecified" n="90"/>
+                  </l>
+                  <l>Repressi <hi>toties, nec</hi> victi, <hi>saevior</hi> Ira <hi>est.</hi>
+                  </l>
+                  <l>Spectant attoniti <hi>sua tecta ruentia Cives,</hi>
+                  </l>
+                  <l>
+                     <hi>Et fundunt</hi> lacrimas; lacrimis <hi>nec posse</hi> domari</l>
+                  <l>
+                     <hi>Spes est,</hi> diluvium <hi>quos vix</hi> extingueret, <hi>Ignes.</hi>
+                  </l>
+                  <l>
+                     <hi>Si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> puero rapiente tuos,</hi> Philomela, <hi>penates,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="95"/>
+                  </l>
+                  <l>
+                     <hi>Qua licet,</hi> accedis, ramo{que} <hi>innixa</hi> propinquo,</l>
+                  <l>
+                     <hi>Voce strepis, sed</hi> voce nequis <hi>tua</hi> sistere Damna.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Subsidio mox</hi> Caesar <hi>adest, operam{que} remissam</hi>
+                  </l>
+                  <l>
+                     <hi>Excitat; ut{que}</hi> Patrem Patriae, (<hi>poscente periclo,</hi>)</l>
+                  <l>
+                     <hi>Induerat</hi> totis, exuto Rege, <hi>medullis:</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="100"/>
+                  </l>
+                  <l>
+                     <hi>Sic monitis, precibus, lacrymis, cessantibus instat,</hi>
+                  </l>
+                  <l>Ignis <hi>uti</hi> Carolum <hi>sentiret adesse</hi> rebellis.</l>
+                  <l>
+                     <hi>Nec dubium,</hi> humanis <hi>si posset</hi> viribus <hi>ultra</hi>
+                  </l>
+                  <l>Obsisti Fatis, <hi>habitura ibi</hi> Fata regressum.</l>
+               </lg>
+               <lg>
+                  <l>Immemor <hi>ipsa</hi> sui, tua <hi>jam,</hi> (Rex <hi>chare</hi>) pericla <milestone type="tcpmilestone" unit="unspecified" n="105"/>
+                  </l>
+                  <l>Urbs metuit. <hi>Quoties</hi> dubiae <hi>committere</hi> Turbae</l>
+                  <l>
+                     <hi>Dilectum vetuere caput;</hi> solisque perire</l>
+                  <l>
+                     <hi>Ʋt per Te</hi> liceat, <hi>petierunt,</hi> Carole, Cives?</l>
+                  <l>Vive diu, <hi>dixere,</hi> Parens, <hi>nostris{que} superstes</hi>
+                  </l>
+                  <l>
+                     <hi>Funeribus, superes</hi> Pylii <hi>tria saecla</hi> Tyranni; <milestone type="tcpmilestone" unit="unspecified" n="110"/>
+                  </l>
+                  <pb n="12" facs="tcp:95334:7"/>
+                  <l>
+                     <hi>Flames</hi> can't <hi>undo</hi> us, whiles the <hi>King</hi>'s <hi>secure;</hi>
+                  </l>
+                  <l>He <hi>lost,</hi> though <hi>sav'd</hi> from <hi>flames,</hi> we must be <hi>poor.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thus did the <hi>pious Trojan</hi> venture rather</l>
+                  <l>All's <hi>Treasure</hi> to the City's wrack than's <hi>Father!</hi>
+                  </l>
+                  <l>His <hi>subjects Love</hi> forc'd <hi>Caesar</hi> to <hi>withdraw:</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="115"/>
+                  </l>
+                  <l>More <hi>griev'd</hi> to <hi>leave</hi> the <hi>Loyalty</hi> he <hi>saw.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Next <hi>princely York,</hi> with sweat and dirt <hi>besmear'd,</hi>
+                  </l>
+                  <l>(More <hi>glorious thus,</hi> then in <hi>his Robes</hi>) appear'd.</l>
+                  <l>He, <hi>Neptune</hi>-like, his <hi>watry Realm</hi> doth <hi>raise;</hi>
+                  </l>
+                  <l>And's <hi>noble Arm</hi> the <hi>spit-flood Engine</hi> sways:<milestone type="tcpmilestone" unit="unspecified" n="120"/>
+                  </l>
+                  <l>That baffled, next, his <hi>Thundering Canons</hi> spew</l>
+                  <l>An <hi>armed Blaze,</hi> with <hi>Flames Flames</hi> to <hi>subdue;</hi>
+                  </l>
+                  <l>But whom the conquer'd <hi>Dutch</hi> and <hi>French</hi> did <hi>fly,</hi>
+                  </l>
+                  <l>
+                     <hi>These Foes,</hi> ('twas <hi>out of's Element,) defie.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>All <hi>help</hi> at last grows <hi>helpless,</hi> but the <hi>Last.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="125"/>
+                  </l>
+                  <l>That too, they <hi>try.</hi> To <hi>Churches,</hi> now (in hast)</l>
+                  <l>
+                     <hi>Some</hi> fly for shelter, <hi>ne're</hi> were <hi>there before;</hi>
+                  </l>
+                  <l>
+                     <hi>Others</hi> to <hi>mourn,</hi> they <hi>ne're</hi> shall <hi>see</hi> 'em <hi>more.</hi>
+                  </l>
+                  <l>The <hi>flames</hi> even them, with th' <hi>owners leave,</hi> surprize,</l>
+                  <l>Nor was't then <hi>sacrilege,</hi> but <hi>Sacrifice.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="130"/>
+                  </l>
+               </lg>
+               <lg>
+                  <l>That <hi>reverend Fabrick,</hi> which the <hi>world admir'd,</hi>
+                  </l>
+                  <l>Amongst a <hi>crowd</hi> of <hi>lesser note,</hi> is fir'd.</l>
+                  <l>Its <hi>cloud-surmounting Steeple</hi> flame'd <hi>so high,</hi>
+                  </l>
+                  <l>That <hi>threat'ned Heavens</hi> ne're fear'd a <hi>flame so nigh.</hi>
+                  </l>
+                  <l>Yea, some beholders thought 'twas <hi>more</hi> then <hi>fear'd,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="135"/>
+                  </l>
+                  <l>Whiles <hi>falling sparks</hi> like <hi>falling Stars</hi> appear'd.</l>
+               </lg>
+               <lg>
+                  <l>The <hi>Fates</hi> themselves, <hi>burnt Monuments</hi> intomb'd;</l>
+                  <l>Their <hi>Alabaster melts:</hi> and (what's presum'd</l>
+                  <l>Beyond <hi>Art</hi>'s power) <hi>Marble</hi>'s <hi>fusile</hi> grown;</l>
+                  <l>The sacred <hi>Reliques</hi> of the <hi>Dead</hi> are thrown <milestone type="tcpmilestone" unit="unspecified" n="140"/>
+                  </l>
+                  <pb n="13" facs="tcp:95334:7"/>
+                  <l>Cede <hi>modo, &amp; nostris</hi> spem Regni <hi>subtrahe</hi> Fatis.</l>
+                  <l>Te <hi>salvo,</hi> Columen rerum, <hi>nos</hi> nulla ruina</l>
+                  <l>
+                     <hi>Funditus</hi> evertet; Tibi <hi>siquis casus iniquus</hi>
+                  </l>
+                  <l>
+                     <hi>Obtigerit,</hi> flamma <hi>quamvis</hi> parcente, <hi>ruemus.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Sic pius <hi>eduxit,</hi> Troja <hi>flragrante,</hi> Parentem <milestone type="tcpmilestone" unit="unspecified" n="115"/>
+                  </l>
+                  <l>Aeneas, animam{que} <hi>opibus tot praetulit</hi> unam!</l>
+                  <l>Victa <hi>est</hi> Majestas pietate; <hi>dolens{que} recedit,</hi>
+                  </l>
+                  <l>
+                     <hi>Et magis</hi> inde dolens, <hi>ubi</hi> sic se <hi>vidit</hi> amari.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Tu simul</hi> Eboracensis <hi>ades, sudore, luto{que}</hi>
+                  </l>
+                  <l>Sordidus, <hi>at</hi> Tyrio <hi>minus aspectabilis</hi> Ostro:<milestone type="tcpmilestone" unit="unspecified" n="120"/>
+                  </l>
+                  <l>
+                     <hi>Poscis</hi> aquas, <hi>iterum{que} cies</hi> (tua Regna) <hi>profundum;</hi>
+                  </l>
+                  <l>Undivoma <hi>at{que} tua contorta est</hi> Machina <hi>dextra.</hi>
+                  </l>
+                  <l>
+                     <hi>Te{que} salutares</hi> bombarda armata <hi>jubente,</hi>
+                  </l>
+                  <l>Evomuit flammas, <hi>at{que}</hi> Ignes Igne <hi>fugavit.</hi>
+                  </l>
+                  <l>
+                     <hi>Quas timuere tamen</hi> Batavi Galli{que} <hi>feroces,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="125"/>
+                  </l>
+                  <l>
+                     <hi>Non timet</hi> Ignipotens <hi>accensas</hi> Mulciber <hi>Iras.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Ultima <hi>plebs tandem sensit</hi> conanima <hi>frustra</hi>
+                  </l>
+                  <l>
+                     <hi>Intendi: &amp;</hi> votis Numen (<hi>quae</hi> sola <hi>supersunt</hi>)</l>
+                  <l>
+                     <hi>Sollicitat;</hi> votis <hi>sed</hi> inexorabile Numen.</l>
+                  <l>
+                     <hi>Dum</hi> delubra petunt, ardent delubra; <hi>nec ipsis</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="130"/>
+                  </l>
+                  <l>Sacrilega <hi>Omnipotens</hi> Incendia <hi>depulit</hi> Aris.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Te{que}</hi> stupor Mundi, Moles Paulina, <hi>tuam{que}</hi>
+                  </l>
+                  <l>Pyramidem, <hi>summo ferientem vertice</hi> Nubes,</l>
+                  <l>
+                     <hi>Corripiunt Ignes avidi, &amp;</hi> caelo inde minantur;</l>
+                  <l>
+                     <hi>Nec timuere unquam</hi> propiores <hi>sidera flammas.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="135"/>
+                  </l>
+                  <l>
+                     <hi>Quinetiam,</hi> similes <hi>referunt</hi> labentibus astris</l>
+                  <l>
+                     <hi>Culmine ab excelso visas</hi> cecidisse favillas.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Ipsa{que} succensis tumulantur</hi> Fata <hi>sepulcris:</hi>
+                  </l>
+                  <l>Effluit <hi>in flammas</hi> Alabastrum; <hi>ipsum{que} (quod</hi> Arte</l>
+                  <l>
+                     <hi>Posse negant fieri) fit</hi> casu fusile Marmor. <milestone type="tcpmilestone" unit="unspecified" n="140"/>
+                  </l>
+                  <pb n="14" facs="tcp:95334:8"/>
+                  <l>
+                     <hi>Out</hi> of their <hi>Tombs;</hi> and by a means unthought,</l>
+                  <l>Are, with their <hi>Tombs,</hi> from <hi>Dust</hi> to <hi>Ashes</hi> brought.</l>
+                  <l>[<hi>At building Pauls,</hi>] in the late <hi>Proverbs</hi> sense,</l>
+                  <l>Henceforth, I doubt, may <hi>Prophesie</hi> commence:</l>
+                  <l>And <hi>after-times</hi> for what of <hi>thee</hi> they <hi>know,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="145"/>
+                  </l>
+                  <l>Shall more to th' <hi>Pencil,</hi> then the <hi>Trowel</hi> owe.</l>
+               </lg>
+               <lg>
+                  <l>Oft, unawares, doth man's <hi>presaging mind</hi>
+                  </l>
+                  <l>
+                     <hi>Sent</hi> future <hi>harms!</hi> sure, <hi>Dugdale,</hi> that inclin'd</l>
+                  <l>Thy too <hi>Prophetick Genius,</hi> to <hi>prevent</hi>
+                  </l>
+                  <l>The <hi>Fate</hi> of that <hi>illustrious monument,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="150"/>
+                  </l>
+                  <l>Which, <hi>what</hi> it <hi>was,</hi> (sith 'twas not <hi>long to be</hi>)</l>
+                  <l>Had scarce been <hi>long knowable,</hi> but for <hi>Thee.</hi>
+                  </l>
+                  <l>Write <hi>Dugdale,</hi> with thy <hi>Founders, Pauls,</hi> and <hi>more:</hi>
+                  </l>
+                  <l>
+                     <hi>Immortal</hi> made by <hi>him;</hi> by <hi>none,</hi> before.</l>
+               </lg>
+               <lg>
+                  <l>With <hi>sacred Flames</hi> a <hi>learned Blaze</hi> doth rise:<milestone type="tcpmilestone" unit="unspecified" n="155"/>
+                  </l>
+                  <l>(For <hi>Twins,</hi> they say, <hi>Twin-Fates</hi> do oft surprize)</l>
+                  <l>The <hi>labours</hi> of the teeming <hi>Press</hi> and <hi>Brain,</hi>
+                  </l>
+                  <l>(An <hi>off-spring Ages</hi> can't <hi>restore</hi> again)</l>
+                  <l>One <hi>Howr destroys:</hi> St. <hi>Faiths</hi> betrusted <hi>Cell,</hi>
+                  </l>
+                  <l>(For <hi>publick Faith</hi> it was) turn'd <hi>Infidel.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="160"/>
+                  </l>
+                  <l>So <hi>Phoebus</hi> ne're for <hi>Phaeton</hi> did mourn,</l>
+                  <l>As <hi>now</hi> he did; the <hi>Sisters Nine</hi> did burn</l>
+                  <l>Their <hi>golden Tresses</hi> in the <hi>richer Fire;</hi>
+                  </l>
+                  <l>And <hi>mourning-blacks</hi> did <hi>Palla's Court</hi> attire;</l>
+                  <l>
+                     <hi>Tear-flouds</hi> foul'd <hi>Helicon;</hi> your <hi>Poets wit</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="165"/>
+                  </l>
+                  <l>Runs <hi>Muddy, (Sir</hi>) with this <hi>short sip</hi> of it.</l>
+               </lg>
+               <lg>
+                  <l>The <hi>common</hi> Fate, the <hi>Royal Change</hi> doth share,</l>
+                  <l>
+                     <hi>Babel</hi> of <hi>Tongues;</hi> the <hi>Ʋniverses Fair;</hi>
+                  </l>
+                  <l>Where <hi>both Poles</hi> daily met, and what <hi>between</hi>
+                  </l>
+                  <l>The vast extent of <hi>both the Poles</hi> is seen; <milestone type="tcpmilestone" unit="unspecified" n="170"/>
+                  </l>
+                  <pb n="15" facs="tcp:95334:8"/>
+                  <l>
+                     <hi>Quinetiam, excelso delapsa cacumine</hi> moles</l>
+                  <l>Corpora <hi>nudavit</hi> Tumulis expressa; <hi>suis quae</hi>
+                  </l>
+                  <l>
+                     <hi>Cum</hi> Tumulis <hi>siunt, jam, plusquam</hi> nomine, Busta.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Jamdudum</hi> reparanda Domus, <hi>jam tota ruinis</hi>
+                  </l>
+                  <l>
+                     <hi>Succumbis, nullo deinceps</hi> reparabilis <hi>aevo.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="145"/>
+                  </l>
+                  <l>
+                     <hi>Sed nec</hi> tota <hi>peris; quam poster a sentiet aetas</hi>
+                  </l>
+                  <l>Dugdaliis <hi>nuper descriptam vivere</hi> chartis.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>O, Quoties</hi> praesaga <hi>mali</hi> Mens <hi>nostra</hi> futuri <hi>est,</hi>
+                  </l>
+                  <l>
+                     <hi>Nec tamen</hi> agnoscit! <hi>Certe, haec te,</hi> Dugdale, Vates</l>
+                  <l>
+                     <hi>Praemonuit, memori sculptam mandare</hi> Tabellae <milestone type="tcpmilestone" unit="unspecified" n="150"/>
+                  </l>
+                  <l>Illustrem <hi>hanc Aedem, quae (tam cito</hi> nulla futura)</l>
+                  <l>
+                     <hi>Qualis</hi> erat, <hi>posthac, nisi per te,</hi> ignota futura <hi>est.</hi>
+                  </l>
+                  <l>Divisam <hi>famam cum</hi> Fundatore, <hi>proinde,</hi>
+                  </l>
+                  <l>
+                     <hi>Tu</hi> Descriptor <hi>habes; nisi quod tua</hi> Gloria major,</l>
+                  <l>
+                     <hi>Qui facis</hi> aeternam, <hi>quam struxerat ille</hi> caducam. <milestone type="tcpmilestone" unit="unspecified" n="155"/>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Nec non (fertur enim</hi> sociari Fata Gemellis,)</l>
+                  <l>
+                     <hi>Augentur</hi> sacri, <hi>doctis</hi> Ardoribus <hi>ignes.</hi>
+                  </l>
+                  <l>
+                     <hi>Innumeros{que} simul</hi> cerebri, praeli{que} <hi>labores,</hi>
+                  </l>
+                  <l>(Aetatum <hi>prolem) in cineres</hi> brevis Hora <hi>resoluit.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Gaza <hi>fuit penso contra pretiosior</hi> Auro <milestone type="tcpmilestone" unit="unspecified" n="160"/>
+                  </l>
+                  <l>
+                     <hi>Deposita ad</hi> Sanctae Fidei, <hi>sed</hi> (rara <hi>reperta est</hi>
+                  </l>
+                  <l>Publica Sancta Fides) <hi>inimicis</hi> prodita Flammis.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Te,</hi> Phaëthonteis <hi>minus indoluisse ruinis,</hi>
+                  </l>
+                  <l>Phaebe, <hi>ferunt;</hi> scissos{que} <hi>rogos auxere</hi> sorores</l>
+                  <l>Crine novem; atrata <hi>funus sect ante</hi> Minerva; <milestone type="tcpmilestone" unit="unspecified" n="165"/>
+                  </l>
+                  <l>Turbatur <hi>lacrimis</hi> Helicon; non pura Poetae</l>
+                  <l>Vena <hi>exinde fluit,</hi> caenoso <hi>è</hi> fonte <hi>bibenti.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>In partem trahitur</hi> Regalis Bursa <hi>ruinae,</hi>
+                  </l>
+                  <l>Linguarum Babel, <hi>&amp;</hi> Mundi Mercatus; utrum{que}</l>
+                  <l>
+                     <hi>Quottidie complexa</hi> Polum, <hi>quod{que}</hi> inter utrum{que} <hi>est,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="170"/>
+                  </l>
+                  <pb n="16" facs="tcp:95334:9"/>
+                  <l>The <hi>Kingdoms's Marble Chronicle.</hi> To <hi>thee,</hi>
+                  </l>
+                  <l>(Great <hi>Prince</hi>) it shew'd thy <hi>Royal Pedegree,</hi>
+                  </l>
+                  <l>For <hi>three</hi> times <hi>nine Descents.</hi> Thy <hi>Next,</hi> the <hi>best;</hi>
+                  </l>
+                  <l>
+                     <hi>Dislodg'd</hi> by <hi>Rebels,</hi> by <hi>thee, repossest:</hi>
+                  </l>
+                  <l>Now, with the <hi>Church</hi> he <hi>bugg'd,</hi> in <hi>Ruines lies,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="175"/>
+                  </l>
+                  <l>But hopes, by <hi>second Charles,</hi> a <hi>second Rise.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>By <hi>Him, you</hi> stood, his <hi>Name's</hi> and <hi>Vertue's Heir,</hi>
+                  </l>
+                  <l>The <hi>make-Peace Act</hi> your gracious <hi>Hand</hi> did bear,</l>
+                  <l>
+                     <hi>Draught</hi> of that <hi>Mind,</hi> which in your <hi>Royal Breast</hi>
+                  </l>
+                  <l>The <hi>Image</hi> of th' <hi>Eternal Mind</hi> exprest; <milestone type="tcpmilestone" unit="unspecified" n="180"/>
+                  </l>
+                  <l>In whom, <hi>Oblivion vertue is,</hi> and who</l>
+                  <l>(As you) by <hi>Pardons Treason</hi> doth <hi>subdue.</hi>
+                  </l>
+                  <l>For <hi>Rebels,</hi> whom <hi>despair</hi> with <hi>courage</hi> armes,</l>
+                  <l>A <hi>safe retreat</hi> into <hi>subjection charmes.</hi>
+                  </l>
+                  <l>Whence, though the <hi>Marble,</hi> and the <hi>paint</hi> be <hi>not,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="185"/>
+                  </l>
+                  <l>
+                     <hi>Charles</hi> living, th' <hi>Amnesty</hi> 'll ne're be <hi>forgot.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Gresham</hi> the <hi>Kings survives.</hi> The <hi>grateful flame</hi>
+                  </l>
+                  <l>The <hi>Founder</hi> spar'd, that would not spare the <hi>Frame.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The <hi>watry Region</hi> scapes not. <hi>Conquering flames</hi>
+                  </l>
+                  <l>Owe an <hi>ill Turn</hi> unto their <hi>Foe,</hi> the <hi>Thames.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="190"/>
+                  </l>
+                  <l>
+                     <hi>Scullers,</hi> and <hi>Oars,</hi> now, <hi>Westward Ho!</hi> all cry'd,</l>
+                  <l>Nor had they <hi>leisure</hi> to expect a <hi>Tide.</hi>
+                  </l>
+                  <l>From the <hi>Lee-shoar</hi> the <hi>Ships</hi> in haste retire;</l>
+                  <l>The <hi>Wind</hi> was thought a <hi>milder Foe,</hi> then <hi>Fire.</hi>
+                  </l>
+                  <l>The <hi>River shrinks,</hi> and from the threatning Heats <milestone type="tcpmilestone" unit="unspecified" n="195"/>
+                  </l>
+                  <l>
+                     <hi>Now</hi> to the <hi>spring, now</hi> to the <hi>Sea,</hi> retreats.</l>
+                  <l>An <hi>Envoy-wave</hi> dispatcht to <hi>Thetis Court,</hi>
+                  </l>
+                  <l>Implores her <hi>Help.</hi> Which granted, to the <hi>Port</hi>
+                  </l>
+                  <l>She <hi>march'd;</hi> but when she <hi>saw the flames,</hi> she <hi>fled,</hi>
+                  </l>
+                  <l>2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0 And <hi>under water</hi> hid her <hi>frighted Head.</hi>
+                  </l>
+                  <pb n="17" facs="tcp:95334:9"/>
+                  <l>Marmoreum Regni Chronicon; <hi>serie{que} vetusta</hi>
+                  </l>
+                  <l>
+                     <hi>Exhibuit quondam</hi> proavos <hi>tibi,</hi> CAROLE, Reges.</l>
+                  <l>Optimus <hi>a</hi> dextris <hi>steterat</hi> Tibi. <hi>Sede</hi> revulsum</l>
+                  <l>Restituisse <hi>redux Piet as tua gestit</hi> avita,</l>
+                  <l>
+                     <hi>Et reduci charis</hi> Ecclesia <hi>fulsit in</hi> Ulnis; <milestone type="tcpmilestone" unit="unspecified" n="175"/>
+                  </l>
+                  <l>
+                     <hi>Nunc</hi> jacet, <hi>expectat{que} iterum,</hi> Te dante, reponi.</l>
+               </lg>
+               <lg>
+                  <l>Proximus Ipse Patri <hi>fueras; quem</hi> Nominis Hares,</l>
+                  <l>
+                     <hi>Exprimis &amp;</hi> virtute pari. Diploma <hi>tenebat</hi>
+                  </l>
+                  <l>Pacificum <hi>pacata Manus;</hi> Mentem{que} <hi>benignam</hi>
+                  </l>
+                  <l>
+                     <hi>Exhibuit,</hi> Menti <hi>similem per</hi> cuncta meanti, <milestone type="tcpmilestone" unit="unspecified" n="180"/>
+                  </l>
+                  <l>Subjectum <hi>cui</hi> mira <hi>tenet</hi> clementia Mundum.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Haec quo{que} laus</hi> vestra <hi>est; Non</hi> vi <hi>domuisse</hi> rebelles,</l>
+                  <l>
+                     <hi>Sed</hi> sceleri <hi>temere admisso prebendo</hi> receptum.</l>
+                  <l>
+                     <hi>Frustra igitur,</hi> Vulcane <hi>furens, in</hi> Marmora <hi>saevis;</hi>
+                  </l>
+                  <l>
+                     <hi>Dum</hi> manet (<hi>&amp; maneat) quem</hi> Muta <hi>expressit</hi> I mago, <milestone type="tcpmilestone" unit="unspecified" n="185"/>
+                  </l>
+                  <l>
+                     <hi>Et retinet</hi> Carolus <hi>descriptam in</hi> Marmore mentem.</l>
+                  <l>Septem <hi>habuit supra</hi> bis denos <hi>nobilis</hi> Ordo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Sceptrigeros, <hi>flammae praedam; dum</hi> Regibus <hi>ipsis</hi>
+                  </l>
+                  <l>
+                     <hi>Ʋnicus a</hi> grato <hi>stat</hi> Conditor Igne superstes.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Sed ne{que}</hi> grassantem <hi>prohibent</hi> victricibus regna; <milestone type="tcpmilestone" unit="unspecified" n="190"/>
+                  </l>
+                  <l>
+                     <hi>Nam{que} memor</hi> Pugnae, <hi>pergit</hi> victricibus Armis</l>
+                  <l>Mulciber <hi>in</hi> Portus, <hi>inimicis{que} imminet</hi> Undis.</l>
+                  <l>
+                     <hi>Omniae confestim</hi> solvunt <hi>retinacula</hi> Puppes</l>
+                  <l>Permissae Ventis: ea <hi>visa est</hi> lenior Ira.</l>
+                  <l>Decrescit Thamisis; <hi>motu{que}</hi> reciproca, Fontes <milestone type="tcpmilestone" unit="unspecified" n="195"/>
+                  </l>
+                  <l>Nunc <hi>petit,</hi> Oceanum <hi>versus</hi> nunc <hi>territa</hi> tendit.</l>
+                  <l>Nuncius <hi>aequoream</hi> Fluctus <hi>praemissus ad</hi> Aulam</l>
+                  <l>
+                     <hi>Sollicitat</hi> Thetin; <hi>a fundo</hi> Thetis <hi>excitat imo</hi>
+                  </l>
+                  <l>Auxilia; <hi>&amp; montes praeruptos volvit aquarum;</hi>
+                  </l>
+                  <l>
+                     <hi>Sed simulac vidit</hi> majores Fluctibus Ignes, <milestone type="tcpmilestone" unit="unspecified" n="200"/>
+                  </l>
+                  <pb n="18" facs="tcp:95334:10"/>
+                  <l>Whiles <hi>heated waves</hi> thus on themselves <hi>recoyl,</hi>
+                  </l>
+                  <l>The <hi>Deep,</hi> without a Metaphor, <hi>doth boyl.</hi>
+                  </l>
+                  <l>The <hi>scaly Troops</hi> scarce safe at <hi>bottom</hi> were;</l>
+                  <l>The <hi>daring Foes</hi> chas'd, and <hi>attaqu'd</hi> 'em <hi>there.</hi>
+                  </l>
+                  <l>The <hi>Fishermen,</hi> ne're made so <hi>strange</hi> a <hi>draught;</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="205"/>
+                  </l>
+                  <l>'Tis thought, the <hi>Fish</hi> were <hi>parboyl'd,</hi> that they <hi>caught.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Four</hi> days did <hi>Phoebus</hi> set, but made <hi>no night:</hi>
+                  </l>
+                  <l>A <hi>brighter blaze</hi> supply'd his <hi>baffled light.</hi>
+                  </l>
+                  <l>And all that while, the <hi>City wak'd:</hi> what <hi>sense</hi>
+                  </l>
+                  <l>Of <hi>weakness call'd</hi> for, <hi>danger frighted thence.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="210"/>
+                  </l>
+                  <l>'Till the <hi>fift Sun</hi> ascending from the East,</l>
+                  <l>With joy, beheld the <hi>Emulous Fire</hi> supprest.</l>
+                  <l>Whether, because the <hi>Suburbs,</hi> where it <hi>stay'd,</hi>
+                  </l>
+                  <l>Were less with <hi>crowded buildings</hi> overlay'd:</l>
+                  <l>Or their <hi>brick Edifices</hi> stopp'd it there:<milestone type="tcpmilestone" unit="unspecified" n="215"/>
+                  </l>
+                  <l>Or that the Flames, so <hi>spread,</hi> more <hi>feeble</hi> were,</l>
+                  <l>(As <hi>boggs hasht</hi> into <hi>Gutters,</hi> soon are <hi>dry'd:</hi>)</l>
+                  <l>Or that the <hi>wind</hi> had <hi>spit</hi> out's <hi>Lungs,</hi> and <hi>dy'd,</hi>
+                  </l>
+                  <l>Is <hi>doubted.</hi> Out of doubt, at <hi>God's arrest,</hi>
+                  </l>
+                  <l>The <hi>all-devouring flames</hi> themselves confest <milestone type="tcpmilestone" unit="unspecified" n="220"/>
+                  </l>
+                  <l>
+                     <hi>Conquer'd,</hi> and yielded to <hi>receive</hi> again</l>
+                  <l>Their <hi>former</hi> (now too long rejected) <hi>chain.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The <hi>Fire</hi> is <hi>out.</hi> But <hi>dismal marks</hi> are seen,</l>
+                  <l>To tell <hi>succeeding Ages</hi> where't hath <hi>been.</hi>
+                  </l>
+                  <l>The Fate of <hi>old Troy</hi> did <hi>new Troy</hi> betide, <milestone type="tcpmilestone" unit="unspecified" n="225"/>
+                  </l>
+                  <l>Its <hi>doubtful Pedigree's</hi> thus <hi>justifi</hi>'d.</l>
+                  <l>The <hi>City now</hi> is the <hi>once-Cities Tomb,</hi>
+                  </l>
+                  <l>A <hi>sceleton</hi> of <hi>fleshless bones</hi> become.</l>
+                  <l>Its <hi>venerable Ruines</hi> have the <hi>Name</hi>
+                  </l>
+                  <l>Of what it <hi>was,</hi> but <hi>little</hi> else the <hi>same:</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="230"/>
+                  </l>
+                  <pb n="19" facs="tcp:95334:10"/>
+                  <l>Consternata <hi>suis fugiens caput</hi> abdidit undis.</l>
+               </lg>
+               <lg>
+                  <l>Aestuat <hi>interea,</hi> quo non assueverat, aestu,</l>
+                  <l>Flumen; &amp; ima <hi>petens (vix imo</hi> tuta <hi>profundo</hi>)</l>
+                  <l>Squamigera <hi>insolitos miratur</hi> Turba <hi>calores.</hi>
+                  </l>
+                  <l>Retia{que} <hi>in tepido</hi> Piscator <hi>gurgite tendens,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="205"/>
+                  </l>
+                  <l>
+                     <hi>Educit tepido</hi> tepefactum <hi>gurgite</hi> piscem.</l>
+               </lg>
+               <lg>
+                  <l>Quatriduum <hi>sine</hi> Nocte <hi>agitur; Nam</hi> sole fugato</l>
+                  <l>Prorogat <hi>us{que}</hi> Diem, superat{que} Vicarius Ardor.</l>
+                  <l>Quatriduum insomnes <hi>peragunt;</hi> suasere soporem</l>
+                  <l>Exhaustae <hi>lassis</hi> vires, vetuere <hi>peric'la.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="210"/>
+                  </l>
+                  <l>Quintus <hi>ubi Eois</hi> Titan <hi>emerserat undis,</hi>
+                  </l>
+                  <l>Aemula <hi>jam tandem visa est</hi> decrescere Flamma.</l>
+                  <l>
+                     <hi>Seu, quoniam,</hi> media <hi>quo longius itur ab</hi> Urbe,</l>
+                  <l>Rarior <hi>occurrit, spatio{que}</hi> remotior, <hi>aedes;</hi>
+                  </l>
+                  <l>Coctilis &amp; paries <hi>surgit, non</hi> commodus Igni:<milestone type="tcpmilestone" unit="unspecified" n="215"/>
+                  </l>
+                  <l>
+                     <hi>Sive (quod in</hi> sulcos divisis <hi>accidit</hi> Undis)</l>
+                  <l>Sparsus <hi>in</hi> extremas partes elanguit aestus:</l>
+                  <l>
+                     <hi>Sive</hi> Euri <hi>furor,</hi> exhausto pulmone, <hi>resedit:</hi>
+                  </l>
+                  <l>
+                     <hi>Sive</hi> aliud (Coelo <hi>certe</hi> miserante,) <hi>repressit</hi>
+                  </l>
+                  <l>Vulcani <hi>rabiem: tandem se</hi> fassa domari, <milestone type="tcpmilestone" unit="unspecified" n="220"/>
+                  </l>
+                  <l>
+                     <hi>Induit</hi> excussas <hi>vastatrix flamma</hi> catenas.</l>
+               </lg>
+               <lg>
+                  <l>Magna <hi>tamen tantae remanent</hi> vestigia stragis</l>
+                  <l>
+                     <hi>Ʋs{que} vel ad</hi> seros <hi>forsan mansura</hi> Nepotes.</l>
+                  <l>Troja nova <hi>est jam</hi> Troja vetus; <hi>dum{que}</hi> omina <hi>replet</hi>
+                  </l>
+                  <l>Nominis, &amp; <hi>tantae fatis aequata</hi> Parenti, <milestone type="tcpmilestone" unit="unspecified" n="225"/>
+                  </l>
+                  <l>
+                     <hi>Occidit; inde</hi> fidem dubiis natalibus addit.</l>
+                  <l>Urbs Augusta <hi>sibi incubuit, sibi facta</hi> sepulchrum;</l>
+                  <l>
+                     <hi>Carnibus</hi> ossa <hi>exuta jacent,</hi> sceleton{que} <hi>venusti</hi>
+                  </l>
+                  <l>
+                     <hi>Corporis ostentant, ipsa</hi> venerabile Clade.</l>
+                  <l>
+                     <hi>Et velut in</hi> Tumulis <hi>cassorum lumine</hi> Regum <milestone type="tcpmilestone" unit="unspecified" n="230"/>
+                  </l>
+                  <pb n="20" facs="tcp:95334:11"/>
+                  <l>As in <hi>Kings Monuments,</hi> their <hi>Ashes</hi> bear</l>
+                  <l>
+                     <hi>Titles</hi> and <hi>Scutcheons,</hi> which the <hi>Kings</hi> did wear.</l>
+                  <l>Its <hi>greatest</hi> part <hi>without the walls</hi> bestow'd;</l>
+                  <l>
+                     <hi>London</hi>'s not now <hi>within,</hi> but <hi>gone abroad.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Grief cramps</hi> my <hi>heart;</hi> nor doth my <hi>Muse</hi> suffice <milestone type="tcpmilestone" unit="unspecified" n="235"/>
+                  </l>
+                  <l>To the <hi>last Act</hi> of <hi>London</hi>'s <hi>Tragedies.</hi>
+                  </l>
+                  <l>Let those <hi>impregnate Fancies,</hi> which the <hi>view</hi>
+                  </l>
+                  <l>Of that disaster <hi>fill'd,</hi> this <hi>Theme</hi> pursue:</l>
+                  <l>
+                     <hi>Meer Fame,</hi> I know, <hi>dull Notions</hi> must infuse;</l>
+                  <l>Yet <hi>wish</hi> not <hi>such a sight,</hi> t' <hi>enrich my Muse.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="240"/>
+                  </l>
+               </lg>
+               <lg>
+                  <l>In brief, (for <hi>tir'd Accountants</hi> close with <hi>Greats</hi>)</l>
+                  <l>Know; <hi>Churches, Publick Halls,</hi> and <hi>Princely Seats,</hi>
+                  </l>
+                  <l>
+                     <hi>Schools, Hospitals;</hi> and what <hi>brave Piles</hi> so e're,</l>
+                  <l>For <hi>State,</hi> or <hi>Ʋse,</hi> our <hi>Ancestors</hi> did <hi>rear,</hi>
+                  </l>
+                  <l>Lye <hi>raz'd:</hi> with what was <hi>rais'd</hi> by <hi>later Times,</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="245"/>
+                  </l>
+                  <l>To eternize their <hi>Vertues,</hi> or their <hi>Crimes.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>All <hi>Europe</hi> mourns at <hi>London</hi>'s <hi>Funerals.</hi>
+                  </l>
+                  <l>Yea, our <hi>suspected Foes</hi> (if <hi>true,</hi> or <hi>false,</hi>
+                  </l>
+                  <l>
+                     <hi>Day</hi> 'll bring to <hi>light</hi>) like <hi>solemn Grief</hi> declare.</l>
+                  <l>
+                     <hi>We,</hi> (sith we <hi>wish</hi> 'em <hi>innocent</hi>) not dare <milestone type="tcpmilestone" unit="unspecified" n="250"/>
+                  </l>
+                  <l>To charge 'em with a <hi>guilt,</hi> they thus <hi>disclaim.</hi>
+                  </l>
+                  <l>And <hi>yet,</hi> if <hi>time</hi> shall <hi>hidden fraud proclaim,</hi>
+                  </l>
+                  <l>Resolve to <hi>lash</hi> 'em. Our <hi>just Muse bestows</hi>
+                  </l>
+                  <l>
+                     <hi>Bays</hi> on the <hi>Valiant, Rods</hi> on <hi>treacherous Foes.</hi>
+                  </l>
+                  <pb n="21" facs="tcp:95334:11"/>
+                  <l>
+                     <hi>Nil, quod erat, praeter</hi> cineres, <hi>&amp;</hi> Nomina <hi>restat:</hi>
+                  </l>
+                  <l>Nomen <hi>habent</hi> cineres; Urbs <hi>vix reperitur</hi> in Urbe:</l>
+                  <l>Exulat (<hi>heu!) exclusasuis</hi> pars maxima muris.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Plura loqui</hi> dolor <hi>ipse vetat: ne{que}</hi> sufficit <hi>ultra</hi>
+                  </l>
+                  <l>Melpomene aequalem <hi>mihi tanta ad</hi> funera versum. <milestone type="tcpmilestone" unit="unspecified" n="35"/>
+                  </l>
+                  <l>Vos, <hi>quibus ista</hi> oculis <hi>subjecta fidelibus,</hi> alta</l>
+                  <l>Mente reposta <hi>sedet,</hi> Musam{que} impraegnat Imago,</l>
+                  <l>
+                     <hi>Scribite. Nam{que}</hi> audita <hi>mihi, non</hi> visa, <hi>canenti</hi>
+                  </l>
+                  <l>(<hi>Nec</hi> vellem vidisse <hi>tamen</hi>) sterilescat <hi>oportet</hi>
+                  </l>
+                  <l>
+                     <hi>Ingenium,</hi> specie <hi>nequaquam</hi> compare <hi>fultum.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="240"/>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Nec mihi propositum est,</hi> numerum superantia <hi>damna</hi>
+                  </l>
+                  <l>
+                     <hi>Exigere ad</hi> numeros, (generatim <hi>dicere lasso</hi>
+                  </l>
+                  <l>
+                     <hi>Sufficiat:) Fumant</hi> Musaea, Palatia, Templa,</l>
+                  <l>Hospitia: <hi>&amp; quicquid</hi> sumptu <hi>spectabile, &amp;</hi> usu,</l>
+                  <l>Antiqua <hi>extruxit</hi> Pietas; <hi>&amp; quicquid</hi> avitis <milestone type="tcpmilestone" unit="unspecified" n="245"/>
+                  </l>
+                  <l>Magnifici <hi>adjecit</hi> pietas, luxusve Nepotum.</l>
+               </lg>
+               <lg>
+                  <l>Indolet <hi>interea nostris</hi> Europa <hi>ruinis.</hi>
+                  </l>
+                  <l>
+                     <hi>Quin &amp;</hi> suspectus <hi>tanti modo criminis</hi> Hostis</l>
+                  <l>Ingemit, <hi>aut saltem cupit</hi> ingemuisse videri.</l>
+                  <l>
+                     <hi>Nos,</hi> neque, <hi>quae voluisse</hi> negant, objecta <hi>probamus:</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="250"/>
+                  </l>
+                  <l>
+                     <hi>Sed</hi> ne{que} (<hi>si volvenda</hi> dies, <hi>quae</hi> vera Tenebris</l>
+                  <l>
+                     <hi>Eruit,</hi> indiciis <hi>fraudem</hi> nudabit apertis;)</l>
+                  <l>Parcemus: cumulare <hi>simul</hi> benefacta <hi>parati</hi>
+                  </l>
+                  <l>Laudibus; <hi>&amp;</hi> malefacta notis <hi>proscindere</hi> justis.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:95334:12"/>
+            <pb n="23" facs="tcp:95334:12"/>
+            <head>
+               <hi>THE AUTHOR TO THE GRAVER,</hi> Ʋpon occasion of a Draught of <hi>London</hi> in <hi>Flames,</hi> designed to have been pre<g ref="char:EOLhyphen"/>fixed as a <hi>Frontispice</hi> to the <hi>Poem,</hi> but forborn upon second thoughts.</head>
+            <lg>
+               <l>
+                  <hi>HOld</hi> Graver <hi>hold,</hi> in vain thou doest engage</l>
+               <l>To <hi>crowd</hi> the <hi>Poem</hi> into th' <hi>Title Page;</hi>
+               </l>
+               <l>Thy <hi>Picture</hi> much beneath thy <hi>Project</hi> falls,</l>
+               <l>Though thou present us <hi>flames</hi> and <hi>tottering Walls:</hi>
+               </l>
+               <l>If that be <hi>all,</hi> thy <hi>Title</hi> thou'lt <hi>belye;</hi>
+               </l>
+               <l>The <hi>Scene</hi>'s the least part of the <hi>Tragedy.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Canst thou delineate <hi>shrieks,</hi> and <hi>doleful cryes,</hi>
+               </l>
+               <l>That rent the Clouds, and pierc'd the melting Skies?</l>
+               <l>Can thy <hi>Lines</hi> reach to accent <hi>Babels voices,</hi>
+               </l>
+               <l>Or, give the <hi>Eccho</hi> to confused <hi>Noyses?</hi>
+               </l>
+               <l>Canst thou express the <hi>bawlings</hi> of a <hi>Crowd,</hi>
+               </l>
+               <l>Wherein <hi>none</hi>'s <hi>heard,</hi> 'cause <hi>every one</hi> is <hi>lowd?</hi>
+               </l>
+               <pb n="24" facs="tcp:95334:13"/>
+               <l>And the extortion, thefts, and cozening Feats</l>
+               <l>Of Porters, Carters, Watermen, and Cheats?</l>
+               <l>Canst thou describe the <hi>sounds</hi> of <hi>tuneless Bells,</hi>
+               </l>
+               <l>Whose <hi>awkward Musick</hi> tolls their <hi>Steeples knells?</hi>
+               </l>
+               <l>The <hi>cracks</hi> of tumbling <hi>Houses;</hi> and the <hi>greeting▪</hi>
+               </l>
+               <l>Of <hi>tottering Roofs,</hi> and <hi>battering Canons</hi> meeting?</l>
+               <l>Canst thou to view expose the <hi>hissing streams</hi>
+               </l>
+               <l>Of <hi>melted Metals,</hi> checkt with <hi>quenching streams!</hi>
+               </l>
+               <l>Or, draw the <hi>Medley</hi> of compounded <hi>smells,</hi>
+               </l>
+               <l>Forc'd, some from <hi>fragrant,</hi> some from <hi>nasty Cells?</hi>
+               </l>
+               <l>Canst reach the <hi>Horrours</hi> of distemper'd <hi>Minds,</hi>
+               </l>
+               <l>Where <hi>ghastly fear</hi> with <hi>woful grief</hi> combines;</l>
+               <l>A <hi>grief,</hi> that <hi>Mourning</hi> from <hi>Amazement</hi> borrows,</l>
+               <l>Whiles <hi>Tears</hi> are <hi>stifled</hi> by <hi>profounder sorrows?</hi>
+               </l>
+               <l>Or, th' <hi>Hurry</hi> which distracted <hi>Fancies</hi> fills,</l>
+               <l>Where, <hi>thought</hi> stabs <hi>thought;</hi> and <hi>project, project</hi> kills:</l>
+               <l>Where, what to <hi>save</hi>'s in <hi>doubt,</hi> till <hi>all</hi> be <hi>lost,</hi>
+               </l>
+               <l>And <hi>slow Resolves</hi> by <hi>speedy Fates</hi> are cross'd!</l>
+               <l>Canst draw the <hi>Misers Passions,</hi> while he <hi>laggs</hi>
+               </l>
+               <l>In midst of flames, <hi>hugging</hi> his darling <hi>Baggs;</hi>
+               </l>
+               <l>Whom, <hi>loth to lose,</hi> and <hi>loth to give,</hi> divide,</l>
+               <l>Neer <hi>sacrific'd</hi> to what he <hi>deifi'd?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Or a <hi>just Love</hi> 'twixt <hi>equal Children</hi> parted,</l>
+               <l>When, <hi>one</hi> must be <hi>preferr</hi>'d, th' <hi>other deserted:</hi>
+               </l>
+               <l>Or, whilest both <hi>goods,</hi> and <hi>Childrens</hi> danger scares</l>
+               <l>The <hi>Mothers bowels,</hi> and the <hi>Fathers cares!</hi>
+               </l>
+               <l>Or, <hi>labouring throws,</hi> and <hi>Births precipitate,</hi>
+               </l>
+               <l>Where the <hi>Fright</hi>'s <hi>Midwife,</hi> and the <hi>Nurse</hi> is <hi>Fate!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If <hi>all</hi> these <hi>miss'd</hi> in thy <hi>Picture</hi> are,</l>
+               <l>Not th' <hi>hundredth part</hi> of <hi>Londons Woes</hi> is there.</l>
+               <pb n="25" facs="tcp:95334:13"/>
+               <l>
+                  <hi>Hold</hi> then: For <hi>old Plays fashion</hi> pleaseth not,</l>
+               <l>Wherein, the <hi>Prologue</hi> onely told the <hi>Plot.</hi>
+               </l>
+               <l>Yet, (now I think on't) somewhat thou may'st do</l>
+               <l>To stead the <hi>Stationer,</hi> and <hi>Poem</hi> too.</l>
+               <l>The <hi>Book</hi> is sometimes turn'd for th' <hi>Baby-Letter;</hi>
+               </l>
+               <l>And <hi>sorry Cuts</hi> help <hi>Ballads</hi> off the better.</l>
+               <l>In <hi>Chawcer,</hi> since his <hi>Language</hi> grew so <hi>stale,</hi>
+               </l>
+               <l>Each <hi>Picture</hi> speaks more <hi>English,</hi> then its <hi>Tale.</hi>
+               </l>
+               <l>And in <hi>Saints Legends</hi> Romanists believe</l>
+               <l>The <hi>Cut's</hi> do <hi>best edification</hi> give.</l>
+            </lg>
+            <lg>
+               <l>Perhaps thou may'st too, <hi>better Readers</hi> draw</l>
+               <l>To <hi>greet</hi> a <hi>Muse,</hi> till <hi>now,</hi> they <hi>never saw.</hi>
+               </l>
+               <l>For oft the <hi>Bush</hi> directs us to the <hi>Wine,</hi>
+               </l>
+               <l>And men know where the <hi>Sight</hi> is, by the <hi>Sign.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Go on,</hi> for <hi>once</hi> then. But thy <hi>Next</hi> shall be</l>
+               <l>A <hi>Nobler Draught,</hi> if thou'lt be rul'd by <hi>me.</hi>
+               </l>
+               <l>Take my <hi>Directions,</hi> and I'll shew thee how</l>
+               <l>To act th' <hi>Engraver,</hi> and the <hi>Poet</hi> too.</l>
+            </lg>
+            <lg>
+               <l>Conceit <hi>Troy's Flames,</hi> and those that <hi>Nero</hi> made</l>
+               <l>To <hi>symbolize</hi> with the sad <hi>Tune</hi> he <hi>play'd.</hi>
+               </l>
+               <l>Or those, <hi>He</hi> made, whose <hi>Name</hi> did <note n="*" place="margin">Brennus</note>
+                  <hi>Burning</hi> bear,</l>
+               <l>When <hi>Jove,</hi> and <hi>Rome</hi> to <hi>Geese</hi> obliged were.</l>
+               <l>With <hi>those</hi> that laid <hi>Jerusalem</hi> in <hi>Dust;</hi>
+               </l>
+               <l>And those of <hi>forreign Vulcans,</hi> ta'ne on <hi>Trust</hi>
+               </l>
+               <l>From <hi>Travellers;</hi> t' impregnate thy Design,</l>
+               <l>And make <hi>thy</hi> lines more to resemble <hi>mine.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then, from some <hi>Ghostly Father</hi> get a <hi>spell</hi>
+               </l>
+               <l>To view the <hi>Cave</hi> (they say) <hi>joynes next</hi> to <hi>Hell;</hi>
+               </l>
+               <l>From that <hi>Original</hi> thy <hi>Fancy</hi> fill,</l>
+               <l>(For, <hi>that's pure fancy,</hi>) and go, try thy skill.</l>
+               <pb n="26" facs="tcp:95334:14"/>
+               <l>And lastly, <hi>antedate</hi> the <hi>General Fire</hi>
+               </l>
+               <l>In <hi>thought:</hi> and thy <hi>Invention</hi> thence <hi>inspire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus <hi>arm'd;</hi> take <hi>Londons Situation</hi> right;</l>
+               <l>And spread a <hi>Mantle</hi> o're 't of <hi>blackest Night;</hi>
+               </l>
+               <l>Take <hi>Lights</hi> and <hi>shades</hi> from its <hi>Blaze.</hi> Lookers on</l>
+               <l>Were satisfied, it might <hi>supply</hi> the <hi>Sun.</hi>
+               </l>
+               <l>Nex, place instead of th' <hi>often changing Dame,</hi>
+               </l>
+               <l>A <hi>black Clowd,</hi> big with sheets of <hi>oylie Flame;</hi>
+               </l>
+               <l>Ruffled by <hi>Eurus,</hi> puffing out of th' <hi>East</hi>
+               </l>
+               <l>
+                  <hi>Aetnean Vapours</hi> from's <hi>incensed Breast:</hi>
+               </l>
+               <l>Let them <hi>drop melted stars,</hi> toss'd up and down</l>
+               <l>To <hi>scatter Ruines</hi> through the <hi>scared Town;</hi>
+               </l>
+               <l>Out of the <hi>Skies</hi> (to shew from whence it came)</l>
+               <l>Stretch out an <hi>Hand,</hi> arm'd with a <hi>Rod</hi> of <hi>Flame:</hi>
+               </l>
+               <l>
+                  <hi>Bound</hi> with a <hi>scrowl;</hi> which let this <hi>Motto</hi> fill,</l>
+               <l>
+                  <hi>LONDON Amend: His Hand is stretcht out still.</hi>
+               </l>
+               <l>Let <hi>Flames</hi> on <hi>March,</hi> a <hi>mile</hi> in <hi>Front</hi> appear,</l>
+               <l>
+                  <hi>Brought</hi> up, with <hi>ruines</hi> smoth'ring in the <hi>Rear.</hi>
+               </l>
+               <l>
+                  <hi>Before,</hi> express me <hi>Paul</hi>'s as yet <hi>entire,</hi>
+               </l>
+               <l>Its <hi>leaden Roof, weeping</hi> for fear o'th' <hi>Fire.</hi>
+               </l>
+               <l>Some dwellings <hi>charg'd</hi> by the <hi>Van Heats,</hi> let <hi>smoak:</hi>
+               </l>
+               <l>Let others stand <hi>forlorn,</hi> t' expect the <hi>shock.</hi>
+               </l>
+               <l>On <hi>tops</hi> of some, <hi>thick Clouds</hi> with <hi>Buckets arm</hi>
+               </l>
+               <l>For <hi>Charge,</hi> but <hi>flying</hi> at the next <hi>Alar'm.</hi>
+               </l>
+               <l>Let <hi>ruining hooks</hi> others exposed, shake;</l>
+               <l>And <hi>gaping Chasmes</hi> let <hi>warlike Engines</hi> make.</l>
+               <l>Express me <hi>Roofs blown up</hi> into the <hi>Air;</hi>
+               </l>
+               <l>And <hi>Flames</hi> they fly <hi>beneath,</hi> let <hi>meet</hi> 'em <hi>there.</hi>
+               </l>
+               <l>Next, draw a <hi>reeking Thames,</hi> and <hi>Barges flying</hi>
+               </l>
+               <l>With <hi>scorched Sayls,</hi> and <hi>stifled Fishes</hi> dying.</l>
+            </lg>
+            <lg>
+               <pb n="27" facs="tcp:95334:14"/>
+               <l>This done: A <hi>Jesuit</hi> cut▪ 'ith' <hi>view</hi> o'th' <hi>whole,</hi>
+               </l>
+               <l>At <hi>Faux's Bo-peep</hi> in some <hi>lurking Hole;</hi>
+               </l>
+               <l>
+                  <hi>Laughing</hi> in's <hi>sleeve:</hi> and let this be the <hi>Mot,</hi>
+               </l>
+               <l>
+                  <hi>Ha! This hits better then the Powder Plot!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For close: At top of <hi>Pauls</hi> let be exprest</l>
+               <l>A <hi>melting Phoenix</hi> in a <hi>flaming Nest.</hi>
+               </l>
+               <l>
+                  <hi>Hope</hi> will <hi>expound</hi> the <hi>Embleme;</hi> though I <hi>fear</hi>
+               </l>
+               <l>Few <hi>hope,</hi> 'twill <hi>soon</hi> be <hi>verified there.</hi>
+               </l>
+               <l>In summe: If any <hi>wish</hi> this <hi>Draught annext,</hi>
+               </l>
+               <l>Say, <hi>This Edition sold, it may i'th' next.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
